@@ -4,4 +4,5 @@ import library
 import matplotlib.pyplot as plt
 import skimage.io
 import numpy as np
-from skimage.feature import graycomatrix, graycoprops
+from skimage.feature import graycomatrix, graycoprops`
+
